@@ -6,3 +6,4 @@ namespace Chat.Repository.Core.Repositories
     {
     }
 }
+
